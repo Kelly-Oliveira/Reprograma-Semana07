@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #A25772;
+}
+
+.produtos{
+    border: #9EB8D9 solid 1px;
+    border-radius: 5px;
+    margin:3rem;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #7C93C3;
+    font-size: 2rem;
+}
+
+.divAlinhaRow{
+    display: flex;
+    flex-direction: row;
+}
+
+p{
+    color: #EEF5FF;
+}
+
+label{
+    color: #F3F8FF;
+}
