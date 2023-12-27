@@ -4,7 +4,7 @@
 OBS: não precisa se preocupar com letras maiúsculas e minúsculas.
 O usuário vai ter que digitar EXATAMENTE do jeito que está cadastrado na lista.
 
-Deploy do projeto: https://kelly-oliveira.github.io/Reprograma-Semana06
+Deploy do projeto: https://kelly-oliveira.github.io/Reprograma-Semana07
 </p>
 
 
