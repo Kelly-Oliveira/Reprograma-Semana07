@@ -10,11 +10,11 @@ Deploy do projeto: https://kelly-oliveira.github.io/Reprograma-Semana07
 
 ###  Tecnologias que utilizei
 
-  | `HTML5` | Linguagem de Marcação de Hipertexto |
+  | `HTML` | Hypertext Markup Language |
   
-  | `CSS` | Linguagem de estilo |
+  | `CSS` | Cascading Style Sheets |
   
-  | `JavaScript` | Linguagem de Programação  |
+  | `JavaScript` | Programming Language |
 
 <hr />
 
